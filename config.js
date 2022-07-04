@@ -57,7 +57,7 @@ global.reactmoji = " 🌀 "
 global.ownertag = ['94703515017'] //ur owner tag
 global.ownernummenu = ['94703515017'] //ur owner number in menu and all
 global.watermark = "Alp4a Bot Inc." //ur watermark
-global.botscript = "https://github.com/kalixbot1/alpha-CheemsBot-MD3"
+global.botscript = "https://github.com/kalixbot1/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/FwlPEvzFEe4EaYEbecLGEQ"
 global.linkz2 = "https://chat.whatsapp.com/HHUCz5crWym7YNMlDz3t8W"
 
