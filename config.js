@@ -44,7 +44,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['94703515017'] //ur owner number
 global.ownername = "𝙠𝙖𝙡𝙞𝙣𝙙𝙪 𝙥𝙚𝙧𝙚𝙧𝙖"
 global.socialm = "GitHub: kalixbot1" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri lanka, Gampaha, weboda" //ur location
 
 //bot bombdy
 global.botname = "alexica" //ur bot name
