@@ -41,21 +41,21 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94703515017'] //ur owner number
-global.ownername = "𝙠𝙖𝙡𝙞𝙣𝙙𝙪 𝙥𝙚𝙧𝙚𝙧𝙖"
+global.owner = ['94768012324'] //ur owner number
+global.ownername = "𝘼𝙇𝙋𝙃𝘼 𝘽𝙊𝙏 𝙄𝙣𝙘."
 global.socialm = "GitHub: kalixbot1" //ur github or insta name
 global.location = "Sri lanka, Gampaha, weboda" //ur location
 
 //bot bombdy
 global.botname = "alexica" //ur bot name
-global.websitex = "https://we.94750136837" //ur website
+global.websitex = "https://we.94768012324" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
 global.packname = "ᴠ𝟹 "
 global.author = "ᴀʟᴇxɪᴄᴀ"
 global.themeemoji = " 🔰 "
 global.reactmoji = " 🌀 "
-global.ownertag = ['94703515017'] //ur owner tag
-global.ownernummenu = ['94703515017'] //ur owner number in menu and all
+global.ownertag = ['94768012324'] //ur owner tag
+global.ownernummenu = ['94768012324'] //ur owner number in menu and all
 global.watermark = "Alp4a Bot Inc." //ur watermark
 global.botscript = "https://github.com/kalixbot1/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/FwlPEvzFEe4EaYEbecLGEQ"
