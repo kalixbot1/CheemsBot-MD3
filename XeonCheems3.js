@@ -1559,17 +1559,6 @@ const menulist = `┌─❖
 │𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 : ${jumlahcmd}
 │𝗧𝗼𝘁𝗮𝗹 𝗛𝗶𝘁 𝗧𝗼𝗱𝗮𝘆 : ${jumlahharian}
 │
-└─「 𝙐𝙎𝙀𝙍'𝙎 𝙇𝙀𝙑𝙀𝙇𝙄𝙉𝙂 」
-│𝗬𝗼𝘂𝗿 𝗟𝗲𝘃𝗲𝗹𝗶𝗻𝗴 : ${levelMenu}
-│𝗬𝗼𝘂𝗿 𝗫𝗽 : ${xpMenu}\ ${reqXp}
-│𝗬𝗼𝘂𝗿 𝗥𝗼𝗹𝗲 : ${role}
-│𝗬𝗼𝘂𝗿 𝗠𝗼𝗻𝗲𝘆 : $${uangku}
-│
-└─「 𝙐𝙎𝙀𝙍'𝙎 𝘼𝘿𝙑𝙀𝙉𝙏𝙐𝙍𝙀 」
-│𝗬𝗼𝘂𝗿 𝗜𝗿𝗼𝗻 : ${getBesi(m.sender)}
-│𝗬𝗼𝘂𝗿 𝗚𝗼𝗹𝗱 : ${getEmas(m.sender)}
-│𝗬𝗼𝘂𝗿 𝗘𝗺𝗲𝗿𝗮𝗹𝗱 : ${getEmerald(m.sender)}
-│𝗬𝗼𝘂𝗿 𝗣𝗼𝘁𝗶𝗼𝗻 : ${getPotion(m.sender)}
 └┬────────────┈ ⳹
    │✑  Please Select
    │✑  The Button Below
@@ -1635,7 +1624,7 @@ XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key 
                         XeonBotInc.send5ButMsg(m.chat, menulist, global.botname, btn)
                         } else if (setbot.templateDocument) {
                         let buttonmenu = [
-        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙡𝙞𝙭 🤡`, url : `${websitex}` } },
             { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
@@ -1651,7 +1640,7 @@ if (isBan) return reply(mess.ban)
 if (isBanChat) return reply(mess.banChat)
 XeonBotInc.sendMessage(from, { react: { text: `${global.reactmoji}`, key: m.key }})
 let buttonmenu = [
-        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙡𝙞𝙭 🤡`, url : `${websitex}` } },
             { urlButton: { displayText: `Script 🍜`, url: `${botscript}` } },
             { quickReplyButton: { displayText: `All Menu 🍱`, id: 'allmenu'} },
             { quickReplyButton: { displayText: `List Menu 🍢`, id: 'command'} },
@@ -1706,7 +1695,7 @@ case 'me': case 'inventory': case 'profile':{
      teksehmazeh += `*🐘Elephant* : ${getGajah(m.sender)}\n\n`
      teksehmazeh += `_*${pushname}*_`
      let butRun = [
-        	{ urlButton: { displayText: `YouTube 🍒`, url : `${websitex}` } },
+        	{ urlButton: { displayText: `𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙠𝙖𝙡𝙞𝙭 🤡`, url : `${websitex}` } },
         	{ urlButton: { displayText: `Script 🍜`, url : `${botscript}` } },
             { quickReplyButton: { displayText: `Owner 🤣`, id: 'owner'}},
             { quickReplyButton: { displayText: `Leaderboard 🎢`, id: 'leaderboard'} }
